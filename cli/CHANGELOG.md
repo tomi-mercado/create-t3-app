@@ -1,5 +1,11 @@
 # Changelog
 
+## 7.33.0
+
+### Minor Changes
+
+- [#1821](https://github.com/t3-oss/create-t3-app/pull/1821) [`4de1927`](https://github.com/t3-oss/create-t3-app/commit/4de1927489aa2d0cf61313ea1543f85268c0e645) Thanks [@kakeWasTaken](https://github.com/kakeWasTaken)! - change default font from Inter to Geist Sans
+
 ## 7.32.1
 
 ### Patch Changes
